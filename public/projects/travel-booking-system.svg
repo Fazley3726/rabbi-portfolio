@@ -1,0 +1,14 @@
+<svg width="1200" height="750" viewBox="0 0 1200 750" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="750" rx="40" fill="#11112B" />
+  <rect x="60" y="60" width="1080" height="630" rx="30" fill="#1F1F3E" />
+  <rect x="100" y="120" width="1000" height="150" rx="24" fill="#272743" />
+  <rect x="100" y="320" width="400" height="280" rx="24" fill="#272743" />
+  <rect x="560" y="320" width="420" height="280" rx="24" fill="#313158" />
+  <circle cx="830" cy="200" r="72" fill="#7C3AED" />
+  <path d="M790 180C790 169.163 798.163 161 809 161H851C861.837 161 870 169.163 870 180V222C870 232.837 861.837 241 851 241H809C798.163 241 790 232.837 790 222V180Z" fill="#C4B5FD"/>
+  <text x="120" y="190" fill="#E2E8F0" font-family="Inter, sans-serif" font-size="48" font-weight="700">Travel Booking</text>
+  <text x="120" y="250" fill="#A5B4FC" font-family="Inter, sans-serif" font-size="28">Modern UI built with React + Vite</text>
+  <text x="120" y="360" fill="#CBD5E1" font-family="Inter, sans-serif" font-size="24">Destination filter</text>
+  <text x="120" y="400" fill="#CBD5E1" font-family="Inter, sans-serif" font-size="24">Animated page transitions</text>
+  <text x="120" y="440" fill="#CBD5E1" font-family="Inter, sans-serif" font-size="24">Responsive travel experience</text>
+</svg>

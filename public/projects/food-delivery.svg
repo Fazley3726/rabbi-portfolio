@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" fill="none">
+  <rect width="800" height="450" fill="#09090b"/>
+  <rect x="40" y="40" width="720" height="370" rx="16" fill="#18181b" stroke="#3f3f46" stroke-width="1"/>
+  <rect x="80" y="80" width="640" height="48" rx="10" fill="#27272a" stroke="#52525b"/>
+  <rect x="100" y="96" width="200" height="16" rx="4" fill="#52525b"/>
+  <rect x="80" y="150" width="190" height="200" rx="10" fill="#422006" stroke="#92400e"/>
+  <rect x="290" y="150" width="190" height="200" rx="10" fill="#422006" stroke="#92400e"/>
+  <rect x="500" y="150" width="190" height="200" rx="10" fill="#422006" stroke="#92400e"/>
+  <circle cx="175" cy="220" r="40" fill="#f59e0b" opacity="0.3"/>
+  <circle cx="385" cy="220" r="40" fill="#f59e0b" opacity="0.3"/>
+  <circle cx="595" cy="220" r="40" fill="#f59e0b" opacity="0.3"/>
+  <text x="400" y="420" text-anchor="middle" fill="#71717a" font-family="system-ui,sans-serif" font-size="14">Food Delivery Web App</text>
+</svg>
