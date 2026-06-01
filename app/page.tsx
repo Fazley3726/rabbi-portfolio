@@ -174,7 +174,12 @@ export default function Home() {
                     className="h-11 w-full justify-center gap-2 rounded-full border-white/15 bg-transparent px-6 hover:bg-white/5 sm:w-auto"
                     asChild
                   >
-                    <a href={personalProfile.cvUrl} download>
+                    <a
+                      href="/cv.pdf"
+                      download="Fazley_Rabbi_CV.pdf"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
                       <Download className="size-4" aria-hidden />
                       Download CV
                     </a>

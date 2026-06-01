@@ -36,7 +36,7 @@ export const personalProfile: PersonalProfile = {
   email: "fazleyrabbi3726@gmail.com",
   cvUrl: "/cv.pdf",
   aboutNarrative:
-    "My journey into software engineering and research has been shaped by profound resilience. During the peak of the COVID-19 pandemic, I faced the heartbreaking loss of my father. In the midst of that grief, I found my anchor in technology—specifically in how engineering can directly impact human lives and healthcare. This drove me to complete my Computer Science degree with a deep focus on Medical AI, leading to multiple accepted IEEE publications. Today, I bridge the gap between complex machine learning pipelines and intuitive, high-performance frontend architectures. I build premium, accessible web applications using Next.js and Tailwind CSS because I believe that powerful, life-saving technology must also be beautifully designed and accessible to everyone.",
+    "My journey into software engineering and research has been shaped by profound resilience. During the peak of the COVID-19 pandemic, I faced the heartbreaking loss of my father. In the midst of that grief, I found my anchor in technology specifically in how engineering can directly impact human lives and healthcare. This drove me to complete my Computer Science degree with a deep focus on Medical AI, leading to multiple accepted IEEE publications. Today, I bridge the gap between complex machine learning pipelines and intuitive, high-performance frontend architectures. I build premium, accessible web applications using Next.js and Tailwind CSS because I believe that powerful, life-saving technology must also be beautifully designed and accessible to everyone.",
 };
 
 export const education: readonly EducationEntry[] = [
